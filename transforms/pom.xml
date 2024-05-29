@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.apache.hop</groupId>
-  <artifactId>hop-sample-transforms</artifactId>
+  <artifactId>hop-plugin-transforms</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>Hop Sample Transforms</name>
+  <name>Hop Sample Plugin Transforms</name>
 
   <parent>
     <groupId>org.apache.hop</groupId>

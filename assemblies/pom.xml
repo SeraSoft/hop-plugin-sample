@@ -8,7 +8,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>Hop Sample Assemblies</name>
+  <name>Hop Sample Plugin Assemblies</name>
 
   <parent>
     <groupId>org.apache.hop</groupId>
@@ -21,7 +21,7 @@
   </properties>
 
   <modules>
-    <module>assemblies-action-sample</module>
-    <module>assemblies-transform-sample</module>
+    <module>assembly-action-sample</module>
+    <module>assembly-transform-sample</module>
   </modules>
 </project>

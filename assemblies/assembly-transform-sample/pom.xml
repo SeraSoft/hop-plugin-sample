@@ -9,19 +9,19 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-      <name>Hop Sample Action Assembly</name>
+      <name>Hop Sample Transform Assembly</name>
 
-    <artifactId>assemblies-action-sample</artifactId>
+    <artifactId>assembly-transform-sample</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>org.apache.hop</groupId>
-            <artifactId>hop-action-sample</artifactId>
+            <artifactId>hop-transform-sample</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
 
-   <profiles>
+    <profiles>
         <profile>
             <id>assembly</id>
             <activation>
